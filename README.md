@@ -12,3 +12,7 @@ Uma calculadora simples feita com Python usando Tkinter.
 ## ▶️ Como executar
 ```bash
 python calculadora.py
+
+## 📸 Preview
+
+![Calculadora](calculadora.png)
