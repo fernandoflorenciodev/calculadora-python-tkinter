@@ -3,11 +3,11 @@
 Uma calculadora simples feita com Python usando Tkinter.
 
 ## Funcionalidades
-- Soma
-- Subtração
+- Adição (soma de valores)
+- Subtração (diminui valores)
 - Multiplicação
 - Divisão
-- Tratamento de erro
+- Tratamento de erros
 
 ## 📸 Preview
 
