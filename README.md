@@ -8,6 +8,7 @@ Uma calculadora simples feita com Python usando Tkinter.
 - Multiplicação
 - Divisão
 - Tratamento de erros
+- subtração teste
 
 ## 📸 Preview
 
