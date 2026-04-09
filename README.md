@@ -4,7 +4,7 @@ Uma calculadora simples feita com Python usando Tkinter.
 
 ## Funcionalidades
 - Adição (soma de valores)
-- Subtração Subtração (diminui valores)
+- Subtração (diminui valores)
 - Multiplicação
 - Divisão
 - Tratamento de erros
