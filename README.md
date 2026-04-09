@@ -13,3 +13,9 @@ Uma calculadora simples feita com Python usando Tkinter.
 ```bash
 python calculadora.py
 
+## 📸 Preview
+
+<p align="center">
+  <img src="" width="400">
+</p>
+
